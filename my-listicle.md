@@ -1,6 +1,6 @@
 # Generative AI Tools and Resources
 
-Alessia Bianchimano
+**Alessia Bianchimano**
 
 ---
 ## How To Use Resources
